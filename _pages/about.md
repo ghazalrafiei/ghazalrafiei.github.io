@@ -10,7 +10,7 @@ redirect_from:
 
 # About
 
-I am currently a computer science PhD student at [Viterbi School of Engineering](https://viterbischool.usc.edu/) of the University of Southern California. I am a member of [SoftArch](https://softarch.usc.edu/~neno/) lab under the supervision of Nenad Medvidović, and my research field is software engineering. Currently, I am working in the intersection of Software Testing and LLMs.
+I am currently a computer science PhD student at [Viterbi School of Engineering](https://viterbischool.usc.edu/) of the University of Southern California. I am a member of [SoftArch](https://softarch.usc.edu/~neno/) lab under the supervision of Nenad Medvidović, and my research field is Software Engineering. Currently, I am working in the intersection of Software Architecture and LLMs.
 
 
 I also play classical piano and am eagerly interested in social sciences, especially computational social science and sociology.
@@ -19,14 +19,18 @@ I also play classical piano and am eagerly interested in social sciences, especi
 
 # Education
 
-**PhD Computer Science at the University of Southern California (USC)**
+**Ph.D. in Computer Science at the University of Southern California (USC)**
 
-&nbsp;&nbsp;&nbsp;&nbsp;2023 - Present
+&nbsp;&nbsp;&nbsp;2023 - Present
+
+**Masters in Computer Science at the University of Southern California (USC)**
+
+&nbsp;&nbsp;&nbsp;2023 - 2025 (en route to Ph.D.)
 
 
-**B.Sc Computer Science at Shahid Beheshti University (SBU)**
+**B.Sc. in Computer Science at Shahid Beheshti University (SBU)**
 
-&nbsp;&nbsp;&nbsp;&nbsp;2018 - 2022
+&nbsp;&nbsp;&nbsp;2018 - 2022
 
 <br>
 
@@ -34,6 +38,11 @@ I also play classical piano and am eagerly interested in social sciences, especi
 # Publications
 
 * [G. Rafiei, B. Farahani and A. Kamandi, "Towards Automating the Human Resource Recruiting Process," 2021 5th National Conference on Advances in Enterprise Architecture (NCAEA).](https://ieeexplore.ieee.org/document/9690504)
+
+
+* [Beyzaei, Benyamin, et al. "Automated Test Transfer across Android Apps using Large Language Models." Proceedings of the ACM on Software Engineering 2.ISSTA (2025): 2227-2250.](https://dl.acm.org/doi/abs/10.1145/3728975)
+
+
 
 <!-- # Selected Projects
 
